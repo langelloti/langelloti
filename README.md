@@ -3,7 +3,6 @@
 - 🔭 I’m currently working on a freelancer at Spark Marketing de Influência.
 - 🌱 I’m currently learning Python/FastAPI/SQL
 - 📫 How to reach me: lucasangelloti@gmail.com
-- 😄 Pronouns: ele/dele
 - ⚡ Fun fact: i'm a certified soccer referee at FFERJ 
 
 <div style="display: inline_block"><br>
